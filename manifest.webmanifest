@@ -1,20 +1,20 @@
 {
-  "name": "PWA Geolocalización",
-  "short_name": "GeoPWA",
-  "start_url": "./",
-  "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#2563eb",
-  "icons": [
-    {
-      "src": "./no_image.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "./no_image.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ]
+    "name": "PWA Geolocalización",
+    "short_name": "GeoPWA",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#2563eb",
+    "icons": [
+        {
+            "src": "no_imagen.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "no_imagen.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
 }
